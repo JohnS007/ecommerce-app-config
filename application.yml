@@ -20,4 +20,4 @@ management:
 
 spring:
     zipkin:
-        baseUrl: http://zipkin-svc:9411
+        base-url: http://zipkin-svc:9411
